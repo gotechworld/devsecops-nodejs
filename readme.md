@@ -1,4 +1,4 @@
-# Unit Testing in Node.js Project
+# Build code, run unit test, run SAST, SCA, DAST security scans for NodeJs App
 
 ## Intro
 This is a quick example project to show how a test environment can be setup in Node.js
